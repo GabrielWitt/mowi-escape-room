@@ -1,0 +1,9 @@
+{
+  "name": "mowi-escape-room",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "GaboWitt109 <gabriel@itswildox.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": ["apps/*", "packages/*"]
+}
